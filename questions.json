@@ -1,0 +1,314 @@
+{
+    "salary not paid": {
+        "keywords": ["employer not paying salary", "unpaid wages", "salary issue"],
+        "response": "If your employer is not paying your salary, document all instances of unpaid wages and communication with your employer. Raise the issue with your HR department or management. If the issue persists, you can file a complaint with the labor department or seek legal advice to recover the unpaid wages through legal channels."
+    },
+    "wrongful termination": {
+        "keywords": ["wrongful termination", "unfair dismissal", "job termination"],
+        "response": "To contest wrongful termination, gather evidence such as employment records, emails, and witness statements that support your claim. Review your employment contract and company policies. File a complaint with your company's HR department or labor board. If necessary, seek legal counsel to explore options for filing a lawsuit for wrongful termination."
+    },
+    "legal notice from creditor": {
+        "keywords": ["legal notice", "creditor notice", "debt collection"],
+        "response": "If you receive a legal notice from a creditor, carefully review the notice to understand the nature of the claim. Respond to the notice within the given timeframe, either by settling the debt or disputing it if you believe it is incorrect. Consult with a legal advisor to understand your rights and obligations and to help you formulate a response."
+    },
+    "property encroachment": {
+        "keywords": ["property encroachment", "neighbor encroachment", "property rights"],
+        "response": "If your neighbor is encroaching on your property, document the encroachment with photos and measurements. Communicate with your neighbor to address the issue amicably. If the issue is not resolved, consult with a lawyer to understand your legal options and consider filing a civil suit to enforce your property rights."
+    },
+    "identity theft": {
+        "keywords": ["identity theft", "stolen identity", "fraud"],
+        "response": "If you are a victim of identity theft, immediately report the theft to your bank, credit card companies, and local authorities. Place a fraud alert on your credit report and monitor your accounts for unauthorized transactions. Consider filing a complaint with relevant consumer protection agencies and seek legal advice to address any further consequences."
+    },
+    "discrimination at work": {
+        "keywords": ["workplace discrimination", "job discrimination", "equal employment opportunity"],
+        "response": "If you experience discrimination at work, document all incidents and communications related to the discrimination. Report the issue to your HR department or a supervisor. If the situation is not resolved, you can file a complaint with the Equal Employment Opportunity Commission (EEOC) or seek legal advice for potential legal action."
+    },
+    "unfair pay practices": {
+        "keywords": ["unfair pay", "discriminatory pay", "pay disparity"],
+        "response": "If you believe you are being unfairly paid compared to others, gather evidence of your pay and the pay of colleagues in similar roles. Discuss the issue with your HR department. If necessary, file a complaint with the Department of Labor or seek legal advice to explore your options."
+    },
+    "employment contract disputes": {
+        "keywords": ["employment contract dispute", "contract issues", "job agreement problems"],
+        "response": "If you have a dispute regarding your employment contract, review the contract carefully and gather any relevant documents or communications. Discuss the issue with your HR department or employer. If unresolved, consider seeking legal advice to understand your rights and options for resolving the dispute."
+    },
+    "harassment at work": {
+        "keywords": ["workplace harassment", "sexual harassment", "bullying at work"],
+        "response": "If you are experiencing harassment at work, document all incidents, including dates and details. Report the harassment to your HR department or a supervisor. If the issue is not resolved, consider filing a complaint with the Equal Employment Opportunity Commission (EEOC) or seeking legal advice."
+    },
+    "safety violations at work": {
+        "keywords": ["workplace safety", "safety violations", "OSHA violations"],
+        "response": "If you notice safety violations at work, report them to your supervisor or HR department. Document the violations and your reports. If the issue is not addressed, you can file a complaint with the Occupational Safety and Health Administration (OSHA) or seek legal advice."
+    },
+    "wrongful eviction": {
+        "keywords": ["wrongful eviction", "illegal eviction", "tenant rights"],
+        "response": "If you believe you have been wrongfully evicted, review your lease agreement and gather any evidence related to the eviction. Discuss the issue with your landlord or property manager. If unresolved, seek legal advice to explore your options for contesting the eviction and potentially recovering damages."
+    },
+    "property damage claims": {
+        "keywords": ["property damage", "damaged property", "insurance claims"],
+        "response": "If your property is damaged, document the damage with photos and gather any relevant evidence. File a claim with your insurance company and keep records of all communications. If your claim is denied or undervalued, consider seeking legal advice to understand your rights and options."
+    },
+    "consumer rights issues": {
+        "keywords": ["consumer rights", "product defects", "service complaints"],
+        "response": "If you have issues with a product or service, document the problem and any communications with the company. Contact the company's customer service to resolve the issue. If necessary, file a complaint with a consumer protection agency or seek legal advice to address the problem."
+    },
+    "wage theft": {
+        "keywords": ["wage theft", "stolen wages", "unpaid work"],
+        "response": "If you suspect wage theft, document all hours worked and pay received. Contact your HR department or employer to address the issue. If the problem persists, file a complaint with the labor department or seek legal advice to recover the stolen wages."
+    },
+    "retaliation at work": {
+        "keywords": ["workplace retaliation", "retaliation for complaints", "job retaliation"],
+        "response": "If you face retaliation at work after making a complaint or reporting an issue, document all incidents and communications. Report the retaliation to your HR department or a supervisor. If necessary, file a complaint with the Equal Employment Opportunity Commission (EEOC) or seek legal advice."
+    },
+    "debt settlement": {
+        "keywords": ["debt settlement", "settling debt", "debt negotiation"],
+        "response": "To settle a debt, contact your creditor to negotiate a settlement amount. Ensure you get the agreement in writing. If you face difficulties, consider working with a debt settlement company or seek legal advice for assistance in negotiating and managing your debt."
+    },
+    "privacy rights": {
+        "keywords": ["privacy rights", "data protection", "personal privacy"],
+        "response": "If you believe your privacy rights have been violated, document the issue and gather evidence. Contact the company or entity responsible for the violation to address the problem. You can also file a complaint with relevant privacy protection agencies or seek legal advice."
+    },
+    "disability accommodations": {
+        "keywords": ["disability accommodations", "ADA accommodations", "disability rights"],
+        "response": "If you need disability accommodations, inform your employer or service provider and provide any required documentation. Discuss your needs and work together to find reasonable accommodations. If you face difficulties, seek advice from disability advocacy groups or legal counsel."
+    },
+    "contract breach": {
+        "keywords": ["contract breach", "breach of agreement", "contract issues"],
+        "response": "If you believe there has been a breach of contract, gather evidence of the breach and review the terms of the contract. Discuss the issue with the other party involved. If unresolved, seek legal advice to understand your rights and options for addressing the breach."
+    },
+    "unfair landlord practices": {
+        "keywords": ["unfair landlord", "tenant rights", "landlord disputes"],
+        "response": "If you face unfair practices from your landlord, document the issues and communicate with your landlord to resolve them. If the problem persists, you can file a complaint with local tenant rights organizations or seek legal advice for assistance."
+    },
+    "intellectual property theft": {
+        "keywords": ["intellectual property theft", "IP theft", "copyright infringement"],
+        "response": "If your intellectual property has been stolen or infringed, document the infringement and gather evidence. Contact the infringer to address the issue. If necessary, seek legal advice to explore options for protecting your intellectual property and pursuing legal action."
+    },
+    "employment discrimination": {
+        "keywords": ["employment discrimination", "job discrimination", "discriminatory practices"],
+        "response": "If you face employment discrimination, document all incidents and communications. Report the discrimination to your HR department or supervisor. If the issue is not resolved, you can file a complaint with the Equal Employment Opportunity Commission (EEOC) or seek legal advice."
+    },
+    "family law issues": {
+        "keywords": ["family law", "divorce", "custody disputes"],
+        "response": "For family law issues such as divorce or custody disputes, gather all relevant documentation and consult with a family law attorney. Explore options for mediation or court proceedings based on your situation. Legal advice will help you understand your rights and the best course of action."
+    }, 
+        "medical malpractice": {
+            "keywords": ["medical malpractice", "doctor negligence", "medical errors"],
+            "response": "If you suspect medical malpractice, gather evidence such as medical records and obtain a second opinion from another healthcare provider. Document all relevant information and communicate with the healthcare facility. If necessary, consult with a medical malpractice attorney to explore your legal options."
+        },
+        "child support disputes": {
+            "keywords": ["child support disputes", "child support issues", "family court"],
+            "response": "If you have a dispute regarding child support, review your court order and gather relevant documentation. Discuss the issue with your ex-partner and attempt to resolve it amicably. If unresolved, consult with a family law attorney or file a motion with the court for enforcement or modification."
+        },
+        "tenant eviction notice": {
+            "keywords": ["tenant eviction notice", "eviction process", "landlord notice"],
+            "response": "If you receive an eviction notice, review the notice carefully and understand your rights and responsibilities. Communicate with your landlord to discuss the situation. If necessary, seek legal advice or assistance from a tenant rights organization to contest the eviction or negotiate a resolution."
+        },
+        "unemployment benefits denial": {
+            "keywords": ["unemployment benefits denial", "denied unemployment", "unemployment claim"],
+            "response": "If your unemployment benefits claim is denied, review the denial letter and the reasons provided. Gather any supporting documentation and appeal the decision within the specified timeframe. If needed, consult with an employment attorney or a local unemployment office for assistance with the appeal process."
+        },
+        "consumer fraud": {
+            "keywords": ["consumer fraud", "fraudulent practices", "scams"],
+            "response": "If you encounter consumer fraud, document the fraudulent activity and gather evidence such as receipts or communications. Report the fraud to the relevant consumer protection agency and consider filing a complaint with the company involved. Seek legal advice if you need further assistance in pursuing action."
+        },
+        "inheritance disputes": {
+            "keywords": ["inheritance disputes", "will disputes", "estate issues"],
+            "response": "If you have a dispute regarding inheritance, review the will or estate plan and gather relevant documents. Attempt to resolve the issue through communication with other beneficiaries or the executor. If necessary, consult with an estate attorney to understand your legal rights and options for resolving the dispute."
+        },
+        "contractual obligations": {
+            "keywords": ["contractual obligations", "contract duties", "agreement terms"],
+            "response": "If you have issues with contractual obligations, review the contract terms and gather evidence related to the obligations. Communicate with the other party to address the issue. If the issue remains unresolved, seek legal advice to understand your rights and potential remedies."
+        },
+        "fraudulent insurance claims": {
+            "keywords": ["fraudulent insurance claims", "insurance fraud", "false claims"],
+            "response": "If you suspect fraudulent insurance claims, gather evidence of the fraud and report it to your insurance company. You may also contact the relevant insurance regulatory authority. Consider seeking legal advice to address the fraudulent activity and protect your rights."
+        },
+        "patent infringement": {
+            "keywords": ["patent infringement", "patent theft", "intellectual property"],
+            "response": "If you believe your patent rights have been infringed, document the infringement and gather evidence. Contact the alleged infringer to address the issue. If necessary, consult with a patent attorney to explore legal options for enforcing your patent rights and seeking remedies."
+        },
+        "worker's compensation claims": {
+            "keywords": ["worker's compensation", "workplace injury", "compensation claim"],
+            "response": "If you need to file a worker's compensation claim, document your injury and gather any relevant medical records. Notify your employer and file a claim with the worker's compensation insurance provider. Seek legal advice if your claim is denied or if you face issues with the compensation process."
+        },
+        "personal injury claims": {
+            "keywords": ["personal injury", "injury claims", "accident compensation"],
+            "response": "If you are pursuing a personal injury claim, document the injury, gather medical records, and collect evidence related to the accident. Notify the responsible party or their insurance company and file a claim. Consult with a personal injury attorney to explore your legal options for seeking compensation."
+        },
+        "data breach": {
+            "keywords": ["data breach", "personal data theft", "security breach"],
+            "response": "If you are affected by a data breach, report it to the organization responsible and monitor your accounts for any unauthorized activity. Consider placing a fraud alert on your credit report and seek legal advice if you need assistance with potential damages or further action."
+        },
+        "unfair business practices": {
+            "keywords": ["unfair business practices", "unethical business", "business disputes"],
+            "response": "If you encounter unfair business practices, document the issues and gather evidence. Contact the business to address the problem or file a complaint with relevant regulatory agencies. Seek legal advice if necessary to explore your options for addressing the unfair practices."
+        },
+        "defamation of character": {
+            "keywords": ["defamation", "character assassination", "slander"],
+            "response": "If you are a victim of defamation, gather evidence of the defamatory statements and their impact on your reputation. Attempt to resolve the issue with the party involved. If needed, seek legal advice to understand your options for pursuing a defamation claim and seeking damages."
+        },
+        "fraudulent business practices": {
+            "keywords": ["fraudulent business practices", "business fraud", "deceptive practices"],
+            "response": "If you encounter fraudulent business practices, document the fraud and gather evidence. Report the issue to the relevant regulatory agencies or consumer protection organizations. Seek legal advice if necessary to explore options for addressing the fraud and protecting your interests."
+        },
+        "wrongful death": {
+            "keywords": ["wrongful death", "death compensation", "legal claim"],
+            "response": "If you believe a wrongful death has occurred, gather evidence related to the death and its causes. Consult with a wrongful death attorney to understand your legal rights and explore options for pursuing a claim for damages resulting from the wrongful death."
+        },
+        "employment contract violations": {
+            "keywords": ["employment contract violations", "contract breaches", "job agreement issues"],
+            "response": "If your employment contract is violated, gather evidence of the violation and review the contract terms. Discuss the issue with your employer or HR department. If necessary, seek legal advice to explore your options for addressing the violation and seeking remedies."
+        },
+        "inheritance tax issues": {
+            "keywords": ["inheritance tax", "estate tax issues", "tax disputes"],
+            "response": "If you face issues with inheritance tax, review the tax laws and gather relevant documentation related to the estate. Consult with a tax advisor or attorney to understand your obligations and explore options for resolving any tax disputes or issues."
+        },
+        "false advertising": {
+            "keywords": ["false advertising", "misleading ads", "deceptive marketing"],
+            "response": "If you encounter false advertising, document the misleading advertisements and gather evidence. Report the issue to relevant consumer protection agencies or regulatory authorities. Seek legal advice if necessary to explore options for addressing the false advertising and seeking remedies."
+        },
+        "illegal search and seizure": {
+            "keywords": ["illegal search", "unlawful seizure", "constitutional rights"],
+            "response": "If you believe you have been subjected to an illegal search or seizure, gather evidence and document the circumstances. Report the issue to relevant authorities or seek legal advice to understand your rights and explore options for addressing the violation."
+        },
+        "mediation and arbitration": {
+            "keywords": ["mediation", "arbitration", "dispute resolution"],
+            "response": "If you are involved in a dispute that may require mediation or arbitration, gather relevant documents and information. Consider engaging a mediator or arbitrator to help resolve the issue. Seek legal advice if needed to understand your rights and the process involved."
+        },
+        "intellectual property disputes": {
+            "keywords": ["intellectual property disputes", "IP conflicts", "copyright issues"],
+            "response": "If you have disputes related to intellectual property, gather evidence of the conflict and review the relevant IP laws. Attempt to resolve the issue with the other party or through mediation. If necessary, seek legal advice to explore options for resolving the dispute and protecting your IP rights."
+        },
+        "landlord-tenant disputes": {
+            "keywords": ["landlord-tenant disputes", "rental issues", "tenant rights"],
+            "response": "If you have a dispute with your landlord or tenant, document the issues and review your lease agreement. Attempt to resolve the issue through communication. If unresolved, consider seeking legal advice or filing a complaint with local tenant rights organizations for assistance."
+        },
+        "child custody issues": {
+            "keywords": ["child custody", "custody disputes", "family court"],
+            "response": "If you have issues with child custody, gather relevant documentation and consult with a family law attorney. Explore options for mediation or court proceedings based on your situation. Legal advice will help you understand your rights and the best course of action for custody matters."
+        },
+        "dental malpractice": {
+            "keywords": ["dental malpractice", "dentist negligence", "dental errors"],
+            "response": "If you suspect dental malpractice, gather evidence such as dental records and seek a second opinion from another dentist. Document all relevant information and communicate with the dental practice. If necessary, consult with a dental malpractice attorney to explore legal options."
+        },
+        "contract negotiation issues": {
+            "keywords": ["contract negotiation", "contract disputes", "agreement terms"],
+            "response": "If you face issues during contract negotiation, document all discussions and gather relevant evidence. Communicate with the other party to address the issues and attempt to reach an agreement. Seek legal advice if needed to understand your rights and options for negotiation."
+        },
+        "bankruptcy issues": {
+            "keywords": ["bankruptcy issues", "bankruptcy filing", "debt relief"],
+            "response": "If you are facing bankruptcy issues, gather financial records and consult with a bankruptcy attorney. Explore options for filing bankruptcy and understand the implications. Legal advice will help you navigate the bankruptcy process and manage your financial situation."
+        },
+        "consumer protection violations": {
+            "keywords": ["consumer protection violations", "consumer rights violations", "fraudulent practices"],
+            "response": "If you encounter violations of consumer protection laws, document the issues and gather evidence. Report the violations to relevant consumer protection agencies or regulatory authorities. Seek legal advice if necessary to address the violations and protect your consumer rights."
+        },
+        "online scams": {
+            "keywords": ["online scams", "internet fraud", "scam prevention"],
+            "response": "If you fall victim to an online scam, document the scam and gather evidence. Report the scam to the relevant online platform or authorities. Consider consulting with a legal advisor to explore options for addressing the scam and recovering any losses."
+        },
+        "workplace safety complaints": {
+            "keywords": ["workplace safety", "safety complaints", "OSHA issues"],
+            "response": "If you have safety complaints at work, document the issues and report them to your supervisor or HR department. If the problem persists, file a complaint with the Occupational Safety and Health Administration (OSHA) or seek legal advice to address the safety concerns."
+        },
+        "fraudulent employment practices": {
+            "keywords": ["fraudulent employment practices", "employment fraud", "deceptive hiring"],
+            "response": "If you encounter fraudulent employment practices, document the fraud and gather evidence. Report the issue to relevant authorities or employment agencies. Seek legal advice if necessary to address the fraud and protect your rights."
+        },
+        "debt recovery disputes": {
+            "keywords": ["debt recovery", "debt disputes", "collection issues"],
+            "response": "If you have disputes related to debt recovery, document the dispute and gather evidence. Communicate with the creditor or collection agency to address the issue. Seek legal advice if necessary to explore options for resolving the dispute and managing the debt."
+        },
+        "medical billing errors": {
+            "keywords": ["medical billing errors", "billing disputes", "healthcare billing"],
+            "response": "If you notice errors in your medical billing, review the bills and gather evidence of the discrepancies. Contact the healthcare provider or billing department to resolve the issue. If necessary, seek legal advice to address the billing errors and ensure accurate billing."
+        },
+        "employment background check issues": {
+            "keywords": ["background check issues", "employment background checks", "screening problems"],
+            "response": "If you encounter issues with an employment background check, review the background check report and gather evidence of inaccuracies. Contact the employer or background check company to address the issue. Seek legal advice if necessary to correct inaccuracies and protect your employment opportunities."
+        },
+        "trademark disputes": {
+            "keywords": ["trademark disputes", "trademark infringement", "brand protection"],
+            "response": "If you have disputes related to trademarks, gather evidence of the infringement or conflict. Contact the infringer to address the issue and protect your brand. Consult with a trademark attorney if necessary to explore legal options for resolving the dispute and enforcing your trademark rights."
+        },
+        "construction defects": {
+            "keywords": ["construction defects", "building issues", "property defects"],
+            "response": "If you encounter construction defects, document the defects and gather evidence. Communicate with the contractor or builder to address the issue. If necessary, seek legal advice to explore options for resolving the defects and seeking remedies."
+        },
+        "land disputes": {
+            "keywords": ["land disputes", "property disputes", "land ownership issues"],
+            "response": "If you have disputes related to land ownership or property boundaries, gather relevant documents and evidence. Attempt to resolve the issue through communication or mediation. Seek legal advice if necessary to explore options for resolving the dispute and protecting your property rights."
+        },
+        "tax evasion issues": {
+            "keywords": ["tax evasion", "tax fraud", "illegal tax practices"],
+            "response": "If you suspect tax evasion or tax fraud, gather evidence and report the issue to relevant tax authorities. Consult with a tax advisor or attorney to understand your rights and explore options for addressing the tax evasion and managing any legal consequences."
+        },
+        "wills and estate planning": {
+            "keywords": ["wills", "estate planning", "estate issues"],
+            "response": "If you need assistance with wills and estate planning, gather relevant information and consult with an estate planning attorney. Review your will and estate plan to ensure it reflects your wishes and complies with legal requirements. Legal advice will help you manage your estate effectively."
+        },
+        "breach of fiduciary duty": {
+            "keywords": ["breach of fiduciary duty", "fiduciary duty violations", "trustee issues"],
+            "response": "If you believe there has been a breach of fiduciary duty, gather evidence and review the fiduciary obligations involved. Communicate with the fiduciary or trustee to address the issue. Seek legal advice if necessary to understand your rights and explore options for addressing the breach."
+        },
+        "consumer contract disputes": {
+            "keywords": ["consumer contract disputes", "contract issues", "service agreements"],
+            "response": "If you face disputes related to consumer contracts, document the issues and gather evidence. Communicate with the company or service provider to resolve the dispute. Seek legal advice if necessary to explore options for addressing the contract issues and protecting your rights."
+        },
+        "fraudulent loan practices": {
+            "keywords": ["fraudulent loan practices", "loan scams", "deceptive lending"],
+            "response": "If you encounter fraudulent loan practices, document the fraud and gather evidence. Report the issue to relevant authorities or financial institutions. Seek legal advice if necessary to address the fraud and protect your financial interests."
+        },
+        "confidentiality breaches": {
+            "keywords": ["confidentiality breaches", "privacy violations", "data protection"],
+            "response": "If you experience a confidentiality breach, document the breach and gather evidence. Report the issue to the responsible organization and seek legal advice to understand your rights and explore options for addressing the breach and protecting your information."
+        },
+        "divorce settlements": {
+            "keywords": ["divorce settlements", "divorce agreements", "separation settlements"],
+            "response": "If you are negotiating a divorce settlement, gather relevant documentation and consult with a family law attorney. Review the terms of the settlement and negotiate based on your needs and interests. Legal advice will help you ensure a fair and comprehensive settlement."
+        },
+        "insurance coverage disputes": {
+            "keywords": ["insurance coverage disputes", "coverage issues", "insurance claims"],
+            "response": "If you face disputes with insurance coverage, review your policy and gather evidence related to the claim. Contact the insurance company to address the issue. Seek legal advice if necessary to explore options for resolving the coverage dispute and ensuring appropriate compensation."
+        },
+        "whistleblower retaliation": {
+            "keywords": ["whistleblower retaliation", "retaliation for reporting", "workplace whistleblowing"],
+            "response": "If you experience retaliation for being a whistleblower, document all incidents and communications. Report the retaliation to your HR department or a supervisor. Seek legal advice to understand your rights and explore options for addressing the retaliation and protecting your job."
+        },
+        "fraudulent medical billing": {
+            "keywords": ["fraudulent medical billing", "billing fraud", "medical overcharges"],
+            "response": "If you suspect fraudulent medical billing, review the bills and gather evidence of discrepancies. Contact the healthcare provider or billing department to address the issue. Seek legal advice if necessary to address the fraud and ensure accurate billing."
+        },
+        "slander and libel": {
+            "keywords": ["slander", "libel", "defamation"],
+            "response": "If you are a victim of slander or libel, document the defamatory statements and gather evidence. Attempt to resolve the issue with the party involved. Seek legal advice if necessary to explore options for pursuing a defamation claim and seeking damages."
+        },
+        "real estate disputes": {
+            "keywords": ["real estate disputes", "property issues", "real estate conflicts"],
+            "response": "If you have disputes related to real estate, gather relevant documents and evidence. Attempt to resolve the issue through communication or mediation. Seek legal advice if necessary to explore options for resolving the dispute and protecting your real estate interests."
+        },
+        "employment leave issues": {
+            "keywords": ["employment leave", "leave disputes", "workplace leave policies"],
+            "response": "If you face issues with employment leave, review your leave policies and gather evidence related to the dispute. Communicate with your HR department or employer to address the issue. Seek legal advice if necessary to explore options for resolving the leave dispute."
+        },
+        "deceptive trade practices": {
+            "keywords": ["deceptive trade practices", "trade fraud", "business deception"],
+            "response": "If you encounter deceptive trade practices, document the deceptive activities and gather evidence. Report the issue to relevant regulatory authorities or consumer protection agencies. Seek legal advice if necessary to address the deception and protect your interests."
+        },
+        "fraudulent investment schemes": {
+            "keywords": ["fraudulent investment schemes", "investment scams", "deceptive investments"],
+            "response": "If you fall victim to fraudulent investment schemes, document the investment and gather evidence of the fraud. Report the issue to relevant financial authorities or agencies. Seek legal advice to explore options for recovering your investment and addressing the fraud."
+        },
+        "tenant-landlord disputes": {
+            "keywords": ["tenant-landlord disputes", "rental conflicts", "landlord issues"],
+            "response": "If you face disputes with your landlord, document the issues and gather evidence. Communicate with your landlord to address the conflict. Seek legal advice if necessary to explore options for resolving the dispute and protecting your rights as a tenant."
+        },
+        "immigration issues": {
+            "keywords": ["immigration issues", "visa problems", "immigration status"],
+            "response": "If you have immigration issues, gather all relevant documentation and consult with an immigration attorney. Explore your options for resolving the issues and understand the implications for your immigration status. Legal advice will help you navigate the immigration process effectively."
+        },
+        "business partnership disputes": {
+            "keywords": ["business partnership disputes", "partnership conflicts", "business disagreements"],
+            "response": "If you have disputes with a business partner, document the issues and gather evidence. Communicate with your partner to address the conflict. Seek legal advice if necessary to explore options for resolving the dispute and protecting your business interests."
+        }
+    }
