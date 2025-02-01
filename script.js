@@ -15,7 +15,7 @@ async function sendMessage() {
 
     document.getElementById('userInput').value = '';  // Clear input field
 
-    // Fetching response from API with a delay
+    // Fetching response from API
     const response = await getResponseFromAPI(userInput);
     
     // Remove typing indicator
@@ -27,18 +27,17 @@ async function sendMessage() {
     speakResponse(response);  // Convert the response to speech
 }
 
-// Function to get a response from the Hugging Face API using Mistral-Nemo-Instruct-2407
+// Function to get a response from the Hugging Face API using DeepSeek-R1
 async function getResponseFromAPI(input) {
-    const apiKey = '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';  // Replace with your Hugging Face API key
-    const url = "https://api-inference.huggingface.co/models/mistralai/Mistral-Nemo-Instruct-2407";  // Updated model URL
+    const apiKey = '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';  // Your Hugging Face API key
+    const url = "https://api-inference.huggingface.co/models/deepseek-ai/DeepSeek-R1";  // Updated model URL
 
     const payload = {
         inputs: input,
         parameters: {
-            max_length: 150,
+            max_length: 200,
             temperature: 0.7,
-            top_p: 0.9,
-            top_k: 50
+            top_p: 0.9
         }
     };
 
@@ -106,7 +105,7 @@ document.addEventListener("DOMContentLoaded", function() {
     }, 2000);  // Loading overlay duration
 });
 
-// Function to add messages to the conversation (removing duplication)
+// Function to add messages to the conversation
 function addMessageToConversation(message) {
     const conversation = document.getElementById('conversation');
     const messageElement = document.createElement('div');
