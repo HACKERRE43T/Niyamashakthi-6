@@ -30,7 +30,7 @@ async function sendMessage() {
 // Function to get a response from the Hugging Face API using Llama-3.3-70B-Instruct
 async function getResponseFromAPI(input) {
     const apiKey = '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';  // Your Hugging Face API key
-    const url = "https://api-inference.huggingface.co/models/meta-llama/Llama-3.3-70B-Instruct";  // Updated model URL
+    const url = "https://api-inference.huggingface.co/models/mistralai/Mistral-Nemo-Instruct-2407";  // Updated model URL
 
     const payload = {
         inputs: input,
