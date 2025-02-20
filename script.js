@@ -42,7 +42,7 @@ async function sendMessage() {
 
     // Fetch response from API
     try {
-        const apiKey = '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';  // Your Hugging Face API key
+        const apiKey = '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';  // Your Hugging Face API key
         const url = "https://api-inference.huggingface.co/models/mistralai/Mistral-Nemo-Instruct-2407";  // API URL
 
         const payload = {
